@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+}
+.cabecera {
+  background-color: #a1253a;
+  color: #f0aa41;
+  text-align: center;
+  padding:40px;
+  font-family: 'Ceviche One', cursive;
+}
+
+.segundo {
+  text-align: center;
+  background-color: #178bbd;
+  padding: 30px;
+}
+
+.viejaloca {
+  text-align: right;
+  background-image: url(cuzco2.jpg);
+background-color: black;
+background-size: 100%auto;
+color: white;
+height: 220px;
+}
+
+.precios {
+  font-family: 'Ceviche One', cursive;
+  font-size: 30px;
+  text-align: center;
+  padding: 40px;
+}
+
+.titulodeparrafo{
+  font-family: 'Ceviche One', cursive;
+  font-size: 40px;
+}
+
+.subtitulo{
+  font-family: "Times new Roman"
+
+}
